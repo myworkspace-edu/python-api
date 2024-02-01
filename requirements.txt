@@ -1,4 +1,10 @@
 flask==3.0.1
+pandas
+numpy
+tqdm
+yacs
+matplotlib
+openpyxl
 
 
 
